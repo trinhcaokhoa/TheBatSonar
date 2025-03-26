@@ -1,4 +1,4 @@
-#🦇 TheBatSonar: Project Overview
+# 🦇  TheBatSonar: Project Overview
 
 📌 Introduction
 
