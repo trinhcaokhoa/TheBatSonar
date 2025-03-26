@@ -7,9 +7,13 @@ TheBatSonar is an AI-powered browser extension designed to filter out toxic, dis
 🎯 Key Features
 
 ✅ AI-Driven Context Filtering → Blocks posts based on sentiment, toxicity, and relevance rather than just keywords.
+
 ✅ Customizable Content Filters → Users can define categories they want to avoid, such as "drama," "negativity," "clickbait," or "crypto FUD."
+
 ✅ Real-Time Processing → Works seamlessly in the browser, analyzing content on Facebook, Twitter/X, YouTube, Reddit, and more.
+
 ✅ Privacy-Focused → No user data is stored; all filtering happens locally or via secure APIs.
+
 ✅ Smart Trend Alerts (Optional) → Allows users to track important discussions while filtering out emotionally charged content.
 
 🛠️ Tech Stack
