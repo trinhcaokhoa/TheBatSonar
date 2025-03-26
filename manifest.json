@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "TheBatSonar",
+  "version": "1.0.0",
+  "description": "An NLP-powered content filter that helps you focus on what matters",
+  "permissions": [
+    "storage",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://*.facebook.com/*",
+    "https://*.twitter.com/*",
+    "https://*.youtube.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.facebook.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+} 
